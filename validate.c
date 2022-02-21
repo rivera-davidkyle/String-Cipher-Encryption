@@ -1,9 +1,5 @@
 
 /**
- *  Group:
- *  Sage Garcia UH56499
- *  Kyle Rivera CJ57691
- *
  *  validate.c - contains subroutines to be called by core asm files
  *  rdi = message_array
  *  rsi = total_messages
