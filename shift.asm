@@ -1,5 +1,3 @@
-; Kyle Rivera - CJ57691
-; Sage Garcia - UH56499
 ; shift.asm
 ; This file contains the code for shift encryption. It asks the user the shift value, and shifts the ASCII values
 ; of the string correspondingly. It also contains an error check on the shift value, as well as buffer cleanears
