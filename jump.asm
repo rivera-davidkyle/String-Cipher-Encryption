@@ -1,5 +1,3 @@
-; Kyle Rivera - CJ57691
-; Sage Garcia - UH56499
 ; jump.asm
 ; This file contains the code for jump encryption. It asks the user for a jump value between 2
 ; and the square root of the length of the string. The jump encryption process involves a nested loop.
