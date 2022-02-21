@@ -1,5 +1,3 @@
-#	Kyle Rivera - CJ57691
-#	Sage Garcia - UH56499
 #	makefile for main.asm, shift.asm, jump.asm, and validate.c
 FILE = main
 FILE2 = shift
