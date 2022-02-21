@@ -1,5 +1,3 @@
-; Kyle Rivera - CJ57691
-; Sage Garcia - UH56499
 ; main.asm
 ; This file currently contains the main code for the program. It prompts a menu that takes an input, and jumps to the corresponding subroutine.
 ; It also contains buffer cleaners, error checks on inputs, and an easter egg secret (inputting c four times).
